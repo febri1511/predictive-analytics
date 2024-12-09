@@ -143,5 +143,3 @@ Langkah selanjutnya untuk meningkatkan model ini dapat mencakup:
 Laporan ini menunjukkan bahwa machine learning dapat menjadi alat yang efektif dalam memprediksi harga perhiasan dengan akurasi yang lebih tinggi dibandingkan metode tradisional.
 
 --- 
-
-_Semoga laporan ini membantu dalam memahami langkah-langkah proyek machine learning untuk prediksi harga! 😊_
